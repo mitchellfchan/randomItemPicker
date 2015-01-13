@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsp stat="ok">
+  <photos page="1" pages="60362" perpage="10" total="603618">
+    <photo farm="9" id="16247695266" isfamily="0" isfriend="0" ispublic="1" owner="37802680@N07" secret="5a85c94580" server="8683" title="Giraffes zdlf 09_smwm"/>
+    <photo farm="9" id="16247698616" isfamily="0" isfriend="0" ispublic="1" owner="37802680@N07" secret="79f809c28b" server="8564" title="Elephants zdlf 01_smwm"/>
+    <photo farm="8" id="16273618225" isfamily="0" isfriend="0" ispublic="1" owner="37802680@N07" secret="05a3d485e0" server="7551" title="Giraffes zdlf 01_smwm"/>
+    <photo farm="8" id="16272803702" isfamily="0" isfriend="0" ispublic="1" owner="37802680@N07" secret="d33398e582" server="7522" title="White Wolf 04_smwm"/>
+    <photo farm="8" id="16273621375" isfamily="0" isfriend="0" ispublic="1" owner="37802680@N07" secret="7e4125e2aa" server="7570" title="White Wolf 05_smwm"/>
+    <photo farm="8" id="15653740963" isfamily="0" isfriend="0" ispublic="1" owner="37802680@N07" secret="d972aba73a" server="7574" title="RedPanda 04smwm"/>
+    <photo farm="9" id="16272787712" isfamily="0" isfriend="0" ispublic="1" owner="130038430@N04" secret="6f98c41aa7" server="8646" title="IMG_8453.jpg"/>
+    <photo farm="8" id="16247659176" isfamily="0" isfriend="0" ispublic="1" owner="130038430@N04" secret="4fb8dafec6" server="7495" title="IMG_8446.jpg"/>
+    <photo farm="8" id="15651205244" isfamily="0" isfriend="0" ispublic="1" owner="37802680@N07" secret="0f072b7467" server="7576" title="Elephants zdlf 03_smwm"/>
+    <photo farm="8" id="15651200294" isfamily="0" isfriend="0" ispublic="1" owner="37802680@N07" secret="f3be92d85d" server="7570" title="Flamingo 04_smwm"/>
+  </photos>
+</rsp>
